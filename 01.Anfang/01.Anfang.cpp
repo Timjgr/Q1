@@ -7,4 +7,6 @@ int main()
 	//1.Änderung
 	cout << "Tim stinkt" << endl;
 	cout << "Finley stinkt noch mehr!!" <<endl;
+
+	cout << "Hallo du n" << endl;
 }
